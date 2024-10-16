@@ -1,0 +1,15 @@
+Ano,Temperatura Média (°C),Precipitação (mm),Região
+2023,24.5,1200,Centro-Oeste
+2023,22.8,1500,Sul
+2023,26.2,900,Nordeste
+2023,25.7,2200,Norte
+2023,23.1,1300,Sudeste
+
+Ano,Focos de Queimadas,Área Desmatada (km²),Região
+2023,89500,7500,Amazônia Legal
+2023,12300,3200,Cerrado
+2023,5600,1100,Mata Atlântica
+
+Satélite,Tipo de Monitoramento,Frequência de Imageamento,Resolução Espacial
+CBERS-4A,Uso do solo e cobertura vegetal,26 dias,2m - 64m
+Amazonia-1,Desmatamento e agricultura,5 dias,60m

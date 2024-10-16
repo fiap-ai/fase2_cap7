@@ -1,0 +1,66 @@
+Safra,Produção (milhões de toneladas),Tipo de Cultura,Período
+2024/25,312.42,Grãos,Estimativa
+2023,288.1,Grãos,Realizado
+2023,99.5,Soja,Realizado
+2023,125.5,Milho,Realizado
+2023,10.8,Arroz,Realizado
+2023,9.3,Trigo,Realizado
+
+Ano,Rebanho (milhões de cabeças),Tipo de Rebanho,Região
+2023,215.3,Bovino,Brasil
+2023,41.5,Suíno,Brasil
+2023,1621.2,Galináceos,Brasil
+
+Ano Safra,Valor (bilhões de R$),Tipo de Financiamento,Programa
+2023/24,364.22,Total,Plano Safra
+2023/24,272.12,Custeio e Comercialização,Plano Safra
+2023/24,92.1,Investimento,Plano Safra
+
+Política Agrícola,Descrição,Ano de Implementação,Status
+Zoneamento Agrícola de Risco Climático,Ferramenta de gestão de riscos na agricultura,1996,Ativo
+Programa de Subvenção ao Prêmio do Seguro Rural,Auxílio financeiro para contratação de seguro rural,2005,Ativo
+Programa Nacional de Fortalecimento da Agricultura Familiar,Financiamento para agricultura familiar,1995,Ativo
+
+Tecnologia,Descrição,Ano de Desenvolvimento,Impacto
+Sistema ILPF,Integração Lavoura-Pecuária-Floresta,2012,Alto
+Fixação Biológica de Nitrogênio,Redução do uso de fertilizantes nitrogenados,2004,Médio
+Controle Biológico de Pragas,Alternativa ao uso de agrotóxicos,2008,Médio
+Cultivares Resistentes à Seca,Aumento da produtividade em regiões áridas,2015,Alto
+
+Pesquisa,Objetivo,Ano de Início,Status
+Melhoramento Genético de Soja,Desenvolver variedades mais produtivas e resistentes,2010,Em andamento
+Agricultura de Precisão,Otimizar o uso de recursos na produção agrícola,2005,Em andamento
+Recuperação de Pastagens Degradadas,Aumentar a produtividade da pecuária de forma sustentável,2012,Em andamento
+Biofortificação de Alimentos,Melhorar o valor nutricional de culturas básicas,2009,Em andamento
+
+Ano,Temperatura Média (°C),Precipitação (mm),Região
+2023,24.5,1200,Centro-Oeste
+2023,22.8,1500,Sul
+2023,26.2,900,Nordeste
+2023,25.7,2200,Norte
+2023,23.1,1300,Sudeste
+
+Ano,Focos de Queimadas,Área Desmatada (km²),Região
+2023,89500,7500,Amazônia Legal
+2023,12300,3200,Cerrado
+2023,5600,1100,Mata Atlântica
+
+Satélite,Tipo de Monitoramento,Frequência de Imageamento,Resolução Espacial
+CBERS-4A,Uso do solo e cobertura vegetal,26 dias,2m - 64m
+Amazonia-1,Desmatamento e agricultura,5 dias,60m
+
+Ano,PIB Agronegócio (bilhões R$),Participação no PIB Total (%),Exportações (bilhões US$)
+2023,2450.1,27.5,159.2
+2022,2264.0,27.2,149.1
+2021,2056.3,27.4,120.6
+
+Commodity,Preço Médio 2023 (US$/tonelada),Variação Anual (%),Principal Estado Produtor
+Soja,525.3,3.2,Mato Grosso
+Milho,210.7,-1.5,Mato Grosso
+Café,3150.2,5.7,Minas Gerais
+Carne Bovina,5120.8,2.1,Mato Grosso do Sul
+
+Programa de Capacitação,Número de Participantes,Ano,Foco
+Assistência Técnica e Gerencial,125000,2023,Gestão Rural
+AgroUp,50000,2023,Tecnologia e Inovação
+Jovem Aprendiz Rural,15000,2023,Formação de Jovens
